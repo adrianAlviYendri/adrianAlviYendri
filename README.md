@@ -1,5 +1,11 @@
 <!-- Adrian Alvi Yendri - GitHub Profile README -->
 
+<p align="center">
+  <a href="https://wakatime.com/@8a24d6a4-87f9-450d-84f9-37ecdfb33a48">
+    <img src="https://wakatime.com/badge/user/8a24d6a4-87f9-450d-84f9-37ecdfb33a48.svg" alt="Wakatime Badge" />
+  </a>
+</p>
+
 <h1 align="center">Adrian Alvi Yendri</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Software+Developer;Fullstack+Developer;Mobile+Developer;Web+Developer" alt="Typing SVG" />
@@ -88,14 +94,27 @@ I'm passionate about **AI**, always eager to learn new things, and enjoy buildin
   </a>
   <a href="https://linkedin.com/in/adrian-alvi-yendri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Adrian%20Alvi%20Yendri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
+  </a>
+  <a href="https://wakatime.com/@8a24d6a4-87f9-450d-84f9-37ecdfb33a48" target="_blank">
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@8a24d6a4-87f9-450d-84f9-37ecdfb33a48">
+    <img src="https://wakatime.com/badge/user/8a24d6a4-87f9-450d-84f9-37ecdfb33a48.svg" alt="Total time coded on WakaTime" />
+  </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center"> 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=adrianAlviYendri&theme=dark" alt="GitHub Streak" />
+  </a>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=adrianAlviYendri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianAlviYendri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
