@@ -111,9 +111,7 @@ I'm passionate about **AI**, always eager to learn new things, and enjoy buildin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=adrianAlviYendri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+   <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=adrianAlviYendri&theme=dark" alt="GitHub Streak" /> </a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=adrianAlviYendri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
