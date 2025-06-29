@@ -89,6 +89,9 @@ I'm passionate about **AI**, always eager to learn new things, and enjoy buildin
 ### 📫 Contact & Socials
 
 <p align="center">
+  <a href="https://adrian-alvi-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
   <a href="mailto:adrianalviyendri@gmail.com">
     <img src="https://img.shields.io/badge/Email-adrianalviyendri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
